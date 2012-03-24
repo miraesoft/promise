@@ -95,7 +95,7 @@
   </dependencies>
   
   <build>
-  	<finalName>ROOT</finalName>
+  	<finalName>promise</finalName>
   	<plugins>
   		<plugin>
   			<groupId>org.apache.maven.plugins</groupId>
